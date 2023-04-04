@@ -1,7 +1,7 @@
 package main
 import "fmt"
 
-func main(){
+func main() {
 	var planetName string
 	var numberOfMoons int
 	planetName = "Mercurio"
